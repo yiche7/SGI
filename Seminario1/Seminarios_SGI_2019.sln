@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Practica3", "Practica3\Prac
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Practica2", "..\..\yiche7\SGI\Practicas\Practica2\Practica2.vcxproj", "{FB670230-6FA7-4C1C-9FEE-21711F9FD260}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Practica4", "..\Practica4\Practica4.vcxproj", "{BEEBD93A-A33C-47DF-A9AC-BC1F15E5F308}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{FB670230-6FA7-4C1C-9FEE-21711F9FD260}.Release|x64.Build.0 = Release|x64
 		{FB670230-6FA7-4C1C-9FEE-21711F9FD260}.Release|x86.ActiveCfg = Release|Win32
 		{FB670230-6FA7-4C1C-9FEE-21711F9FD260}.Release|x86.Build.0 = Release|Win32
+		{BEEBD93A-A33C-47DF-A9AC-BC1F15E5F308}.Debug|x64.ActiveCfg = Debug|x64
+		{BEEBD93A-A33C-47DF-A9AC-BC1F15E5F308}.Debug|x64.Build.0 = Debug|x64
+		{BEEBD93A-A33C-47DF-A9AC-BC1F15E5F308}.Debug|x86.ActiveCfg = Debug|Win32
+		{BEEBD93A-A33C-47DF-A9AC-BC1F15E5F308}.Debug|x86.Build.0 = Debug|Win32
+		{BEEBD93A-A33C-47DF-A9AC-BC1F15E5F308}.Release|x64.ActiveCfg = Release|x64
+		{BEEBD93A-A33C-47DF-A9AC-BC1F15E5F308}.Release|x64.Build.0 = Release|x64
+		{BEEBD93A-A33C-47DF-A9AC-BC1F15E5F308}.Release|x86.ActiveCfg = Release|Win32
+		{BEEBD93A-A33C-47DF-A9AC-BC1F15E5F308}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
